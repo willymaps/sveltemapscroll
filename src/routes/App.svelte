@@ -167,7 +167,7 @@
 	}
 
 	[slot="foreground"] section {
-		width:50%;
+		width: 70%;
 		margin: auto;
 		text-align: center;
 		vertical-align: middle;
